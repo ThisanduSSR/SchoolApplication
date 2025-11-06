@@ -1,4 +1,5 @@
 📘 School Application – Java Inheritance Project
+
 🧠 Overview
 
 This Java project demonstrates the concept of Object-Oriented Programming (OOP) — specifically inheritance, constructors, method overriding, and encapsulation.
